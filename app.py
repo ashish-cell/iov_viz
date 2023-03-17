@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 # Set the title
-st.title("SNS Visualizations in Streamlit")
+st.title("Visualization of Truck behaviors for different risk frequencies")
 
 # Read in your dataset
 # Replace 'your_data.csv' with the path to your actual dataset
